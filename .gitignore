@@ -1,0 +1,6 @@
+.idea/
+venv/
+tasks_real.csv
+config/filter_real.json
+config/settings_real.json
+**/__pycache__/

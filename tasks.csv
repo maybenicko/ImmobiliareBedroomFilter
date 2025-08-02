@@ -1,0 +1,4 @@
+task_name,room_min_price,room_max_price,min_sqr,max_sqr,min_rooms,max_rooms,bedrooms,people,mode
+2 People,600,800,60,95,3,,,2,areas
+3 People,600,800,100,,4,,3,3,coords
+4 People,600,800,110,150,5,8,4,4,city
